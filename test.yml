@@ -1,3 +1,4 @@
 files:
-  - source: '*.md'
+  - source: README.md
     translation: '%original_file_name%'
+    config_path: test.yml
