@@ -1,0 +1,6 @@
+files:
+  - source: en.ini
+    ignore:
+      - /localization
+    translation: /%two_letters_code%/en.ini
+    dest: source.ini
