@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: test-integration-dvcs\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /master/test.po\n"
+"Project-Id-Version: test-integration-dvcs\n"
+"Last-Translator: mikolay <mikolay@crowdin.com>\n"
+"Language-Team: Ukrainian\n"
+"PO-Revision-Date: 2018-03-19 04:59-0400\n"
+
+msgid "Action has been completed."
+msgstr ""
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Create new entry"
+msgstr "Створити нову запис"
+
+msgid "Do you really want to delete this entry?"
+msgstr ""
+
+msgid "Edit this entry"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Next (Right arrow key)"
+msgstr ""
+
+msgid "No results found!"
+msgstr ""
+
+msgid "Please select a valid file extension."
+msgstr ""
+
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
