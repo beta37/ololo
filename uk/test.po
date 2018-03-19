@@ -11,16 +11,16 @@ msgstr ""
 "Project-Id-Version: test-integration-dvcs\n"
 "Last-Translator: mikolay <mikolay@crowdin.com>\n"
 "Language-Team: Ukrainian\n"
-"PO-Revision-Date: 2018-03-19 04:56-0400\n"
+"PO-Revision-Date: 2018-03-19 04:59-0400\n"
 
 msgid "Action has been completed."
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "Створити"
 
 msgid "Create new entry"
-msgstr ""
+msgstr "Створити нову запис"
 
 msgid "Do you really want to delete this entry?"
 msgstr ""
