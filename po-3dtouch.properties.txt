@@ -1,3 +1,0 @@
-calibration_menu = Insira a calibração
-start_sensor_menu = iniciar Sensor
-stop_sensor_menu = parar Sensor
