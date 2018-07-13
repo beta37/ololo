@@ -19,3 +19,5 @@ files:
         uk: vbcnxc
       osx_locale:
         uk: eradf
+export_languages:
+  - uk
