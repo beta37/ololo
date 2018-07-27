@@ -1,5 +1,5 @@
-commit_message: [skip ci]
-
+commit_message:
+  - skip ci
 files:
   - source: '*.properties'
     translation: >-
