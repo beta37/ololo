@@ -1,5 +1,5 @@
 files:
-  - source: en-3dtouch.properties
+  - source: '*.properties'
     translation: >-
       /%two_letters_code%/%language%/%three_letters_code%/%locale%/%locale_with_underscore%/%android_code%/%osx_code%/%osx_locale%/3dtouch.properties
     languages_mapping:
@@ -19,3 +19,11 @@ files:
         uk: vbcnxc
       osx_locale:
         uk: eradf
+  - source: '*.yml'
+    translation: /%osx_locale%/%original_file_name%
+  - source: '*.ini'
+    translation: >-
+      /%two_letters_code%/%language%/%three_letters_code%/%locale%/%locale_with_underscore%/%android_code%/%osx_code%/%osx_locale%/3dtouch.properties
+  - source: '*.txt'
+    translation: >-
+      /%two_letters_code%/%language%/%three_letters_code%/%locale%/%locale_with_underscore%/%android_code%/%osx_code%/%osx_locale%/3dtouch.properties
