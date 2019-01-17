@@ -1,0 +1,6 @@
+files:
+  - source: /de/*.json
+    translation: /%two_letters_code%/%original_file_name%
+    languages_mapping:
+      two_letters_code:
+        de: de2test/test
