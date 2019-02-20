@@ -8,7 +8,7 @@ This project is ***100% free*** because it is important that all people around t
 
 [![donation](https://chatsecure.org/static/images/paypal_donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRBHJ9AX5VWNA)
 
-# Локалізація
+# Localization
 
 If you would like to contribute/improve a translation:
 
@@ -16,7 +16,7 @@ If you would like to contribute/improve a translation:
 2. Go to the resources subsites [AppStore.strings](https://www.transifex.net/projects/p/chatsecure/resource/appstorestrings/) & [Localizable.strings](https://www.transifex.net/projects/p/chatsecure/resource/strings/) to add a new language or improve an existing translation. 
 3. [Open an issue on Github](https://github.com/chrisballinger/Off-the-Record-iOS/issues) notifying us of your translation.
 
-# Сумісність
+# Compatibility
 
 **Bold** indicates it has been tested and works properly.
 
