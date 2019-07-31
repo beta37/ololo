@@ -1,6 +1,7 @@
 files:
   - source: /*.md
     translation: /%two_letters_code%/%original_file_name%
+    dest: null
     language_mapping:
       two_letters_code: 
         en: ru
